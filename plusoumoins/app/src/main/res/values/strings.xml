@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Plus ou moins</string>
+    <string name="notice">Entrez votre nombre:</string>
+    <string name="button_name">Valider</string>
+    <string name="notice_plus">Plus grand!</string>
+    <string name="notice_moins">Moins grand!</string>
+    <string name="notice_equal">Félicitations, vous l\'avez bien deviné</string>
+    <string name="exception_null_input">Entrez votre nombre avant click le button SVP</string>
+    <string name="exception_input_size_prob">Votre nombre est hors de portée </string>
+</resources>
